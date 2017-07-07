@@ -1,0 +1,96 @@
+<resources>
+    <string name="app_name">Food Order Customer</string>
+
+    <string name="navigation_drawer_open">Open</string>
+    <string name="navigation_drawer_close">Close</string>
+
+    <!--activity_bag-->
+    <string name="bag_empty">Your Bag is empty</string>
+    <string name="leave_messages_hint">leave some messages</string>
+    <string name="done_button">Done</string>
+
+    <!--activity_details-->
+    <string name="template_food_name">Food name</string>
+    <string name="template_food_price">$5</string>
+    <string name="food_spicy_title">spicy:</string>
+    <string name="food_rating_title">rating:</string>
+    <string name="template_food_description">description.....</string>
+    <string name="template_num">1</string>
+    <string name="add_cart_button">Add to the Cart</string>
+    <string name="content_description_food_image">food image</string>
+    <string name="content_description_add_one_button">add one button</string>
+    <string name="content_description_reduce_one_button">reduce one button</string>
+
+    <!--activity_main-->
+    <string name="contact_info">Contact us ###-###-#### xxxxx@gmail.com</string>
+
+    <!--activity_profile-->
+
+    <!--fragment_history-->
+    <string name="empty_history">You have not ordered anything</string>
+
+    <!--fragment profile-->
+    <string name="customer_name_title">Name:</string>
+    <string name="customer_email_title">Email:</string>
+    <string name="customer_uuid_title">UUid:</string>
+
+    <!--fragment_promotion-->
+    <string name="coming_soon">coming soon</string>
+
+    <!--ingredient-->
+    <string name="template_food_name_ingredient">eggs</string>
+    <string name="template_food_price_ingredient">+ $2.75</string>
+
+    <!--list_item_bag-->
+    <string name="template_food_name_bag_item">Item One</string>
+    <string name="template_food_adition_item">Addtional</string>
+    <string name="template_food_num_bag_item">x 1</string>
+
+    <!--list_item_bag_title-->
+    <string name="template_bag_title">title</string>
+
+    <!--list_item_food-->
+    <string name="template_food_name_item">Chicken</string>
+    <string name="template_food_price_item">$30</string>
+
+    <!--list_item_history-->
+    <string name="template_food_price_history_item">$30</string>
+    <string name="template_food_time_history_item">Placed time: 05/11/2017</string>
+
+    <!--nav_header-->
+    <string name="customer_name_nav">Customer</string>
+    <string name="log_in_nav">Log In</string>
+    <string name="template_customer_email_nav">jh.zhou@hotmail.com</string>
+
+    <!--details_toolbar-->
+    <string name="action_comments">Comments</string>
+
+    <!--home_toolbar-->
+    <string name="action_search">Search</string>
+    <string name="action_bag">Bag</string>
+
+    <!--nav_menu-->
+    <string name="nav_all">All</string>
+    <string name="nav_appetizer">Appetizer</string>
+    <string name="nav_meal">Meal</string>
+    <string name="nav_drinks">Drinks</string>
+    <string name="nav_daily_special">Daily Special</string>
+
+    <!--addtion-->
+    <string name="num_sign">x</string>
+    <string name="dollar_sign">$</string>
+    <string name="log_out">Log Out</string>
+    <string name="log_in">Log In</string>
+    <string name="empty_bag">Bag is empty</string>
+    <string name="nums_notice">1 is the minimum</string>
+    <string name="log_in_reminder">Log in first please</string>
+    <string name="action_log_in">Log in</string>
+    <string name="clickable_notice">it is clickable</string>
+
+    <!--widget-->
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="widget_title">Daily Special</string>
+    <string name="wideget_no_daily_special">No Daily Special Available</string>
+
+</resources>

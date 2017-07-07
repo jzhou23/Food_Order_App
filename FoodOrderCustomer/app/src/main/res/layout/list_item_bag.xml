@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginLeft="24dp"
+    android:layout_marginStart="24dp"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <TextView
+        android:id="@+id/order_name_bag"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:text="@string/template_food_name_bag_item"
+        android:textSize="18sp"
+        android:textColor="@android:color/black"/>
+
+    <TextView
+        android:id="@+id/order_nums_bag"
+        android:layout_alignParentRight="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:text="@string/template_food_num_bag_item"
+        android:textSize="18sp"
+        android:textColor="@android:color/black"/>
+
+    <TextView
+        android:visibility="gone"
+        android:id="@+id/order_additon_bag"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/order_name_bag"
+        tools:text="@string/template_food_adition_item"
+        android:layout_marginLeft="16dp" />
+
+</RelativeLayout>
+

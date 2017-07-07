@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1006204664234",
+    "firebase_url": "https://foodorder-d900e.firebaseio.com",
+    "project_id": "foodorder-d900e",
+    "storage_bucket": "foodorder-d900e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006204664234:android:acd09b64b0d1f6ac",
+        "android_client_info": {
+          "package_name": "com.example.jhzhou.foodordersaler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1006204664234-dkeulaab8p7cn8eb4re32oe2lqoumo2b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpWC98m4NjJD_FJ2j5MUHjQ-EuuDvSuxs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
